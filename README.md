@@ -5,3 +5,7 @@ Read me file example
 ------------------------------------------------------
 
 Software-Project Overview:
+
+Describtion:
+
+Functionality:
